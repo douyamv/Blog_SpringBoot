@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: spring-web-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: douya
+Build-Jdk: 1.6.0_43
+Built-By: douya
+Created-By: Maven Integration for Eclipse
+
